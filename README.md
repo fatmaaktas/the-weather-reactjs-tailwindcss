@@ -1,7 +1,9 @@
-<<<<<<< HEAD
-# the-weather-reactjs-tailwindcss
+# The Weather Reactjs-Tailwind css
 A weather project using ReactJS, TailwindCSS, and an WebAPI.
 =======
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e2e3f134-2146-4161-9ed4-0c718f24a79c" />
+</p>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
