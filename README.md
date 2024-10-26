@@ -3,6 +3,8 @@ A weather project using ReactJS, TailwindCSS, and an WebAPI.
 =======
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e2e3f134-2146-4161-9ed4-0c718f24a79c" />
+  <img src="https://github.com/user-attachments/assets/7f5bbf4f-ff4a-40c7-b9b2-0d08a582a7a9" />
+
 </p>
 # Getting Started with Create React App
 
